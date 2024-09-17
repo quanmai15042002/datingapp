@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Dating_app_v1.0.3/dating_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Dating_app_v1.0.3/dating_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Dating_app_v1.0.3/dating_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Web_Admin_Panel_v1.0.3/dating_app_dashboard/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Web_Admin_Panel_v1.0.3/dating_app_dashboard/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Web_Admin_Panel_v1.0.3/dating_app_dashboard/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
